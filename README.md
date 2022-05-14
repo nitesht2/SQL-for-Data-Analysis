@@ -1,4 +1,4 @@
-# Parch & Posey Data Analysis in SQL
+# Sales and Marketing Data Analysis in SQL
 
 
 ## Introduction
